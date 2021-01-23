@@ -1,0 +1,24 @@
+@font-face{
+    font-family: Amiri;
+    src: local('Amiri') ,url('https://fonts.googleapis.com/css2?family=Amiri:ital@1&display=swap') format("trueType");
+}
+
+@font-face{
+    font-family: Almarai;
+    src: local('Almarai') ,url('https://fonts.googleapis.com/css2?family=Almarai:wght@700&family=Amiri:ital@1&display=swap') format("trueType");
+}
+
+@font-face{
+    font-family: El Messiri;
+    src: local('El Messiri') ,url('https://fonts.googleapis.com/css2?family=El+Messiri:wght@500&display=swap') format("trueType");
+}
+
+@font-face{
+    font-family: Reem Kufi ;
+    src: local('Reem Kufi') ,url('https://fonts.googleapis.com/css2?family=Reem+Kufi&display=swap') format("trueType");
+}
+
+@font-face{
+    font-family: Aref Ruqaa ;
+    src: local('Aref Ruqaa') ,url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa&display=swap') format("trueType");
+}
